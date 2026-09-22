@@ -1,4 +1,7 @@
 # DX-Realtime-and-Overworld-for-Gen2
+
+**SUPPORTS UPTO GEN III, use with MODS that enable those**
+
 DX Overworld importer and Realtime Battle - You need Pokemon DX: Gale of Darkness iso
 
 https://smidja2.github.io/DX-Realtime-and-Overworld-for-Gen2/
